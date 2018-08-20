@@ -1,6 +1,10 @@
 {
   "expo": {
+    "name": "FrasesToYou",
     "sdkVersion": "27.0.0",
-    "icon" : "./icon.png"
+    "icon": "./icon.png",
+    "android": {
+      "package": "frasestoyou.main"
+    }
   }
 }
